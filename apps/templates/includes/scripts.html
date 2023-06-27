@@ -1,0 +1,91 @@
+<!-- Core -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/@popperjs/core/dist/umd/popper.min.js"></script>
+<script src="{{ config.ASSETS_ROOT }}/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<!-- Vendor JS -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/onscreen/dist/on-screen.umd.min.js"></script>
+
+<!-- Slider -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/nouislider/distribute/nouislider.min.js"></script>
+
+<!-- Smooth scroll -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+
+<!-- Charts -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/chartist/dist/chartist.min.js"></script>
+<script src="{{ config.ASSETS_ROOT }}/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"></script>
+
+<!-- Datepicker -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/vanillajs-datepicker/dist/js/datepicker.min.js"></script>
+
+<!-- Sweet Alerts 2 -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/sweetalert2/dist/sweetalert2.all.min.js"></script>
+
+<!-- Moment JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
+
+<!-- Vanilla JS Datepicker -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/vanillajs-datepicker/dist/js/datepicker.min.js"></script>
+
+<!-- Notyf -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/notyf/notyf.min.js"></script>
+
+<!-- Simplebar -->
+<script src="{{ config.ASSETS_ROOT }}/vendor/simplebar/dist/simplebar.min.js"></script>
+
+<!-- Github buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Volt JS -->
+<script src="{{ config.ASSETS_ROOT }}/js/volt.js"></script>
+
+<script src="
+https://cdn.jsdelivr.net/npm/axios@1.3.3/dist/axios.min.js
+"></script>
+
+<script>
+  let submitBtn = document.getElementById("submit");
+  let bookingInput = document.getElementById("Booking_ID");
+  let pageInput = document.getElementById("pages");
+  let rangeInput = document.getElementById("range");
+  let raceInput = document.getElementById("race");
+
+  let outputWindow = document.getElementById("textarea");
+  const x = new WebSocket("ws://127.0.0.1:5000/echo");
+
+  x.onopen = (ev) => console.log("Connection started");
+  x.onmessage = (event) => {
+    let res = event.data;
+    if (res.includes("Error")) {
+      alert("Some error, please check inputs");
+      return;
+    }
+    outputWindow.value += res + "\n\n";
+  };
+
+  submitBtn.addEventListener("click", async () => {
+    let bId = bookingInput.value;
+    let pages = pageInput.value;
+    if (!pages) {
+      pages = 20;
+    }
+    let range = rangeInput.value;
+    if (!range) {
+      range = "20-70";
+    }
+    let race = raceInput.value;
+
+    if (!race) {
+      race = "all";
+    }
+
+    x.send(
+      JSON.stringify({
+        id: bId,
+        pages: parseInt(pages),
+        race: race,
+        range: range,
+      })
+    );
+  });
+</script>

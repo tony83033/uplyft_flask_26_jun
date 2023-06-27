@@ -1,0 +1,47 @@
+Booking ID,Full Name,Date of Birth,Custody Status,Age,Gender,Race,Custody Status Date,Book Date,Location
+2,CASEY DANIELLE JORDAN,11/01/1994,Out of Custody,29,Female,White,"Jun 03, 2023 09:49 AM PDT","Jun 02, 2023 09:14 PM PDT",Butte County Sheriff's Office
+4,19890413B M,,Contact Facility,,,,"Jun 11, 2023 10:35 PM PDT",,Alameda County Sheriff's Office
+4,,,Contact Facility,,,,"May 30, 2023 02:17 PM PDT",,Humboldt County Sheriff's Office
+4,KENNETH JOSEPH DEWITT JR,02/01/1981,Out of Custody,42,Male,White,"Jun 11, 2023 08:33 AM PDT","May 29, 2023 11:58 PM PDT",Mendocino County Sheriff's Office
+7,CARL LEE HATTON JR,01/01/1964,In Custody,59,Male,White,"May 22, 2023 01:15 PM PDT","May 22, 2023 01:09 PM PDT",Kings County Sheriff's Office
+9,JARRETT LANCASTER,09/01/2001,In Custody,22,Male,White,"May 27, 2023 10:02 PM PDT",,Modoc County Sheriff's Office
+11,JARRETT RUCKER,12/01/1972,In Custody,51,Male,White,"Dec 02, 2021 08:32 AM PST",,Modoc County Sheriff's Office
+12,JOSHUA BEATTEY,02/01/1980,In Custody,43,Male,White,"May 12, 2023 06:46 PM PDT",,Modoc County Sheriff's Office
+14,JAMES ANTHONY GOTTFRIED,01/01/1978,Out of Custody,45,Male,White,"May 30, 2023 08:05 PM PDT","May 28, 2023 11:03 PM PDT",San Luis Obispo County Sheriff's Office
+15,CHRISTOPHER LEE ACKERMAN,04/01/1962,In Custody,61,Male,White,"May 23, 2023 11:59 PM PDT","Jan 27, 2023 11:35 PM PST",Mendocino County Sheriff's Office
+16,CHARLES EDWARD LAMBERTSEN,09/01/1971,In Custody,52,Male,White,"Nov 02, 2017 08:06 AM PDT","Nov 01, 2017 09:22 PM PDT",Trinity County Sheriff's Office
+20,HARLAN ARNETT,08/01/1993,In Custody,30,Male,American Indian/Alaska Native,"Apr 04, 2023 12:52 AM PDT",,Modoc County Sheriff's Office
+202322002,VICENTE ANDRES RAMIREZ,07/01/1990,Out of Custody,33,Male,Unknown,"Jun 02, 2023 04:24 PM PDT","Jun 02, 2023 12:21 AM PDT",Riverside County Sheriff's Department
+202322003,MATTHEW DILLON VALDEZ,03/01/1993,Out of Custody,30,Male,Unknown,"Jun 02, 2023 08:54 AM PDT","Jun 02, 2023 12:51 AM PDT",Riverside County Sheriff's Department
+202322004,ROSHON EDWARD THOMAS,02/01/1989,Out of Custody,34,Male,Black,"Jun 02, 2023 05:24 PM PDT","Jun 02, 2023 12:52 AM PDT",Riverside County Sheriff's Department
+202322005,ISAIAH KALEI DOTIMAS,07/01/1985,In Custody,38,Male,Unknown,"Jun 02, 2023 01:24 AM PDT","Jun 02, 2023 01:03 AM PDT",Riverside County Sheriff's Department
+202322006,DEVANTE LAFOND JACKSON,04/01/1997,Transferred,26,Male,Black,"Jun 05, 2023 09:04 AM PDT","Jun 02, 2023 01:22 AM PDT",Riverside County Sheriff's Department
+202322007,RAYMUNDO RODRIGUEZ,07/01/1986,Out of Custody,37,Male,Unknown,"Jun 02, 2023 07:24 AM PDT","Jun 02, 2023 01:25 AM PDT",Riverside County Sheriff's Department
+202322008,JAMES B SHIRLEY,11/01/1954,Out of Custody,69,Male,White,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 01:26 AM PDT",Riverside County Sheriff's Department
+202322009,MARCO MARTINEZ,01/01/2001,Out of Custody,22,Male,Unknown,"Jun 02, 2023 08:54 AM PDT","Jun 02, 2023 01:41 AM PDT",Riverside County Sheriff's Department
+202322010,AUSTIN JASON HERRERA,12/01/1999,Out of Custody,24,Male,White,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 01:42 AM PDT",Riverside County Sheriff's Department
+202322011,ARMANDO MACIAS,09/01/1981,Out of Custody,42,Male,Unknown,"Jun 02, 2023 10:24 AM PDT","Jun 02, 2023 01:53 AM PDT",Riverside County Sheriff's Department
+202322012,FRANK ROBERT BECERRA,09/01/1975,Out of Custody,48,Male,Unknown,"Jun 02, 2023 07:55 PM PDT","Jun 02, 2023 02:01 AM PDT",Riverside County Sheriff's Department
+202322013,BRIAN RODRIGUEZ,12/01/1976,Out of Custody,47,Male,Unknown,"Jun 02, 2023 10:54 AM PDT","Jun 02, 2023 02:02 AM PDT",Riverside County Sheriff's Department
+202322014,CRESCENCIO JUAN DURAN,10/01/2002,Out of Custody,21,Male,Unknown,"Jun 07, 2023 03:40 AM PDT","Jun 02, 2023 02:07 AM PDT",Riverside County Sheriff's Department
+202322015,RICHARD MICHAEL SINGLETON,01/01/1963,Out of Custody,60,Male,White,"Jun 07, 2023 03:09 AM PDT","Jun 02, 2023 02:20 AM PDT",Riverside County Sheriff's Department
+202322016,STEVEN WHITE,03/01/1999,Out of Custody,24,Male,Black,"Jun 02, 2023 10:24 AM PDT","Jun 02, 2023 02:29 AM PDT",Riverside County Sheriff's Department
+202322017,RODOLFO TAFOLLA,01/01/1997,Out of Custody,26,Male,Unknown,"Jun 02, 2023 04:24 AM PDT","Jun 02, 2023 02:36 AM PDT",Riverside County Sheriff's Department
+202322018,AL PUENTES,09/01/1984,Out of Custody,39,Male,Unknown,"Jun 02, 2023 11:24 AM PDT","Jun 02, 2023 02:43 AM PDT",Riverside County Sheriff's Department
+202322019,NICOLE MARIE CONNELL,02/01/1993,Out of Custody,30,Female,White,"Jun 02, 2023 02:24 PM PDT","Jun 02, 2023 02:46 AM PDT",Riverside County Sheriff's Department
+202322020,SAVANAH RENAE QUIROZ,12/01/1999,Out of Custody,24,Female,Unknown,"Jun 02, 2023 05:24 PM PDT","Jun 02, 2023 02:54 AM PDT",Riverside County Sheriff's Department
+202322021,TRISTEN JULIAN TORRES,02/01/2002,Out of Custody,21,Male,Unknown,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 03:10 AM PDT",Riverside County Sheriff's Department
+202322003,MATTHEW DILLON VALDEZ,03/01/1993,Out of Custody,30,Male,Unknown,"Jun 02, 2023 08:54 AM PDT","Jun 02, 2023 12:51 AM PDT",Riverside County Sheriff's Department
+202322006,DEVANTE LAFOND JACKSON,04/01/1997,Transferred,26,Male,Black,"Jun 05, 2023 09:04 AM PDT","Jun 02, 2023 01:22 AM PDT",Riverside County Sheriff's Department
+202322009,MARCO MARTINEZ,01/01/2001,Out of Custody,22,Male,Unknown,"Jun 02, 2023 08:54 AM PDT","Jun 02, 2023 01:41 AM PDT",Riverside County Sheriff's Department
+202322010,AUSTIN JASON HERRERA,12/01/1999,Out of Custody,24,Male,White,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 01:42 AM PDT",Riverside County Sheriff's Department
+202322014,CRESCENCIO JUAN DURAN,10/01/2002,Out of Custody,21,Male,Unknown,"Jun 07, 2023 03:40 AM PDT","Jun 02, 2023 02:07 AM PDT",Riverside County Sheriff's Department
+202322016,STEVEN WHITE,03/01/1999,Out of Custody,24,Male,Black,"Jun 02, 2023 10:24 AM PDT","Jun 02, 2023 02:29 AM PDT",Riverside County Sheriff's Department
+202322017,RODOLFO TAFOLLA,01/01/1997,Out of Custody,26,Male,Unknown,"Jun 02, 2023 04:24 AM PDT","Jun 02, 2023 02:36 AM PDT",Riverside County Sheriff's Department
+202322019,NICOLE MARIE CONNELL,02/01/1993,Out of Custody,30,Female,White,"Jun 02, 2023 02:24 PM PDT","Jun 02, 2023 02:46 AM PDT",Riverside County Sheriff's Department
+202322020,SAVANAH RENAE QUIROZ,12/01/1999,Out of Custody,24,Female,Unknown,"Jun 02, 2023 05:24 PM PDT","Jun 02, 2023 02:54 AM PDT",Riverside County Sheriff's Department
+202322021,TRISTEN JULIAN TORRES,02/01/2002,Out of Custody,21,Male,Unknown,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 03:10 AM PDT",Riverside County Sheriff's Department
+202322008,JAMES B SHIRLEY,11/01/1954,Out of Custody,69,Male,White,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 01:26 AM PDT",Riverside County Sheriff's Department
+202322010,AUSTIN JASON HERRERA,12/01/1999,Out of Custody,24,Male,White,"Jun 02, 2023 01:54 PM PDT","Jun 02, 2023 01:42 AM PDT",Riverside County Sheriff's Department
+202322015,RICHARD MICHAEL SINGLETON,01/01/1963,Out of Custody,60,Male,White,"Jun 07, 2023 03:09 AM PDT","Jun 02, 2023 02:20 AM PDT",Riverside County Sheriff's Department
+202322019,NICOLE MARIE CONNELL,02/01/1993,Out of Custody,30,Female,White,"Jun 02, 2023 02:24 PM PDT","Jun 02, 2023 02:46 AM PDT",Riverside County Sheriff's Department
